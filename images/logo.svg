@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180">
+<circle cx="90" cy="90" r="80" fill="#2E7D32"/>
+<g fill="white">
+<circle cx="60" cy="55" r="12"/><circle cx="120" cy="55" r="12"/>
+<circle cx="45" cy="85" r="11"/><circle cx="135" cy="85" r="11"/>
+<path d="M90 70 C65 80 58 110 72 126 C82 138 98 138 108 126 C122 110 115 80 90 70z"/>
+</g></svg>
